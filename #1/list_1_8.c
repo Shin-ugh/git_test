@@ -11,8 +11,8 @@ int main(void){
   vx = 57;
   vy = vx + 10;
 
-  printf("vxの 値は%dです。\n",vx );
-  printf("vyの 値は%dです。\n",vy );
+  printf("vxの 値は  %dです。\n",vx );
+  printf("vyの 値は  %dです。\n",vy );
 
   return 0;
 }
